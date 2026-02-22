@@ -1,0 +1,6 @@
+
+#define MASTER_LEFT
+// #define SPLIT_HAND_PIN GP2
+
+#define BOOTMAGIC_ROW 0
+#define BOOTMAGIC_COLUMN 0
