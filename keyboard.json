@@ -28,6 +28,17 @@
     "vid": "0xFEED",
     "pid": "0x8008"
   },
+  "rgblight": {
+    "driver": "ws2812",
+    "max_brightness": 10,
+    "led_count": 2,
+    "split": true,
+    "split_count": [1, 1]
+  },
+  "ws2812": {
+    "pin": "GP16",
+    "driver": "vendor"
+  },
   "layouts": {
     "LAYOUT": {
       "layout": [
